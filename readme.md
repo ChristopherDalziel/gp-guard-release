@@ -1,4 +1,4 @@
-<p><img src="assets/readme-header.svg" alt="GP Guard - urgent assistance alerts"></p>
+<p><img src="https://github.com/ChristopherDalziel/gp-guard/raw/main/assets/readme-header.svg" alt="GP Guard - urgent assistance alerts"></p>
 
 Local-network urgent assistance alerts for GP clinics on Windows 10 and 11 (64-bit). One **main PC** and any number of **workstations** communicate over the clinic network. There are no accounts, cloud services or database.
 
